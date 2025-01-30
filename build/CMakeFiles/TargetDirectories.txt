@@ -1,0 +1,3 @@
+C:/HighPerformanceCache/build/CMakeFiles/cache_app.dir
+C:/HighPerformanceCache/build/CMakeFiles/edit_cache.dir
+C:/HighPerformanceCache/build/CMakeFiles/rebuild_cache.dir
